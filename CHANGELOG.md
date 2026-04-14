@@ -1,3 +1,7 @@
+# 5.0.3 (2026-04-14)
+
+- Added new short-fade-2 hair style and santa hat (#61 by @chrislardner)
+
 # 5.0.2 (2025-09-09)
 
 - Remove extra class names from some SVG elements, as they were not doing anything and had the potential to conflict with other class names (such as "outline" from Tailwind).
