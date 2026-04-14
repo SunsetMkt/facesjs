@@ -111,7 +111,7 @@ const drawFeature = (
     return;
   }
   if (
-    ["hat", "hat2", "hat3"].includes(face.accessories.id) &&
+    ["hat", "hat2", "hat3", "santa-hat"].includes(face.accessories.id) &&
     info.name == "hair"
   ) {
     if (

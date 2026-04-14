@@ -7,6 +7,7 @@ export const genders = {
     "headband-high": "both",
     headband: "both",
     none: "both",
+    "santa-hat": "both",
   },
   body: {
     body: "both",
@@ -234,6 +235,7 @@ export const genders = {
     shaggy2: "both",
     "short-bald": "male",
     "short-fade": "male",
+    "short-fade-2": "male",
     short: "male",
     short2: "male",
     short3: "both",
